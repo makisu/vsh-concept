@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valheimserverhosting.com" resolutions="1x" timestamp="1617654828972">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3835571500" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u797.php" crc="4240685084" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="static background.jpg" crc="344905059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 5.png" crc="4088592124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2.png" crc="3814820383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trialmain.png" crc="195864614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trial.png" crc="129313565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-crop-u135.png" crc="3943205682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-crop-u249.png" crc="533193627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="price.png" crc="3892798090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u795-7.png" crc="216510987" ref="index"/>
+    <file name="u796-7.png" crc="349151852" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u804.png" crc="4190553552" ref="index"/>
+    <file name="u804-r.png" crc="4159231814" ref="index"/>
+    <file name="u814-4.png" crc="197041937" ref="index"/>
+    <file name="u873.png" crc="87368587" ref="index"/>
+    <file name="u873-r.png" crc="4287576838" ref="index"/>
+    <file name="u874.png" crc="535000933" ref="index"/>
+    <file name="u874-r.png" crc="3773983716" ref="index"/>
+    <file name="firecamp.png" crc="4182139133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portal test.png" crc="437658888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-crop-u291.png" crc="149241497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-crop-u298.png" crc="298943927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image 05 - link.png" crc="18837208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3800410927" seo="true" mt="1617650277156" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3953346773" seo="true" mt="1617654792154" redirect="true"/>
+</manifest>

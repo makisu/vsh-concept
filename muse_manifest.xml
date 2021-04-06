@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valheimserverhosting.com" resolutions="1x" timestamp="1617654828972">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valheimserverhosting.com" resolutions="1x" timestamp="1617681289769">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3835571500" ref="index"/>
+    <file name="index.css" crc="4158924131" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -18,23 +18,7 @@
     <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="static background.jpg" crc="344905059" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 5.png" crc="4088592124" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 2.png" crc="3814820383" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="trialmain.png" crc="195864614" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="trial.png" crc="129313565" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clouds-crop-u135.png" crc="3943205682" seo="true" ref="index">
+    <file name="image 01 - link.jpg" crc="520631415" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="clouds-crop-u249.png" crc="533193627" seo="true" ref="index">
@@ -53,6 +37,13 @@
     <file name="u873-r.png" crc="4287576838" ref="index"/>
     <file name="u874.png" crc="535000933" ref="index"/>
     <file name="u874-r.png" crc="3773983716" ref="index"/>
+    <file name="asset 2.png" crc="3814820383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 5.png" crc="4088592124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="firecamp.png" crc="4182139133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -68,6 +59,15 @@
     <file name="image 05 - link.png" crc="18837208" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="static background.jpg" crc="344905059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clouds-crop-u135.png" crc="3943205682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image 02 - link.jpg" crc="400595381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -75,5 +75,5 @@
     </folder>
     <file name="index.html" crc="3800410927" seo="true" mt="1617650277156" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3953346773" seo="true" mt="1617654792154" redirect="true"/>
+  <file name="index.html" crc="4025365835" seo="true" mt="1617681250686" redirect="true"/>
 </manifest>

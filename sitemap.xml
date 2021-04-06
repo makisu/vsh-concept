@@ -6,28 +6,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://valheimserverhosting.com/images/static%20background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valheimserverhosting.com/images/asset%205.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valheimserverhosting.com/images/asset%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valheimserverhosting.com/images/trialmain.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valheimserverhosting.com/images/trial.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valheimserverhosting.com/images/clouds-crop-u135.png</image:loc>
+      <image:loc>http://valheimserverhosting.com/images/image%2001%20-%20link.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://valheimserverhosting.com/images/clouds-crop-u249.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://valheimserverhosting.com/images/price.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valheimserverhosting.com/images/asset%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valheimserverhosting.com/images/asset%205.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://valheimserverhosting.com/images/firecamp.png</image:loc>
@@ -43,6 +34,15 @@
     </image:image>
     <image:image>
       <image:loc>http://valheimserverhosting.com/images/image%2005%20-%20link.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valheimserverhosting.com/images/static%20background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valheimserverhosting.com/images/clouds-crop-u135.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valheimserverhosting.com/images/image%2002%20-%20link.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
